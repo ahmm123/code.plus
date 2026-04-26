@@ -1,20 +1,22 @@
 <!-- Header -->
-<h1 align="center">Hi! I`m codeplus👋</h1>
+<h1 align="center">Hi! I'm CodePlus 👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-welcome here
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  <b>Welcome to my GitHub profile!</b>
 </p>
 
 ---
 
-## 👨‍💻 about me
-- 🔧 5 years of work as a web and windows programmer
-- 🌍 Can write codes with 8 languages of programming
-- 🚀 I like best echosystems and opensource projects
+## 👨‍💻 About Me
+
+- 🔧 5+ years as a Web & Windows programmer
+- 🌍 Proficient in 8 programming languages
+- 🚀 Passionate about ecosystems & open-source projects
 
 ---
 
-## 🧰 skills
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nodejs,express,git,mysql,postgres,mongodb,githubactions" />
@@ -22,7 +24,7 @@ welcome here
 
 ---
 
-## 📊 github status
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmm123&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -35,26 +37,31 @@ welcome here
 
 ---
 
-## 🚀 my projects
+## 🚀 Featured Projects
 
-| project | deccryption | link |
-|-------|-------|------|
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Project 1** | A task management app with React + Node | [🔗 GitHub](https://github.com/ahmm123/project1) • [🌐 Demo](https://project1.com) |
+| **Project 2** | Data dashboard with Python & Django | [🔗 GitHub](https://github.com/ahmm123/project2) |
+| **Project 3** | Fast API with Go & Redis | [🔗 GitHub](https://github.com/ahmm123/project3) |
+
+> Replace these with your actual projects
 
 ---
 
-## 📫 call me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-personal-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/codeplus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/codeplus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:codeplus@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://codeplus.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎯 viewers
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmm123&label=see+profile&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmm123&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
