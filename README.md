@@ -16,7 +16,7 @@
 ## 🧰 مهارت‌ها و ابزارها
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp,php,react,nodejs,express,django,spring,git,docker,kubernetes,mysql,postgres,mongodb,redis,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nodejs,express,git,mysql,postgres,mongodb,githubactions" />
 </p>
 
 ---
