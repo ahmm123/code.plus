@@ -40,12 +40,6 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Links |
-|---------|-------------|-------|
-| **Project 1** | A task management app with React + Node | [🔗 GitHub](https://github.com/ahmm123/project1) • [🌐 Demo](https://project1.com) |
-| **Project 2** | Data dashboard with Python & Django | [🔗 GitHub](https://github.com/ahmm123/project2) |
-| **Project 3** | Fast API with Go & Redis | [🔗 GitHub](https://github.com/ahmm123/project3) |
-
-> Replace these with your actual projects
 
 ---
 
