@@ -1,19 +1,19 @@
 <!-- Header -->
-<h1 align="center">سلام! من YOUR_NAME هستم 👋</h1>
+<h1 align="center">Hi! I`m codeplus👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=توسعه‌دهنده+بک‌اند+و+فول‌استک;5+سال+تجربه+برنامه‌نویسی;عاشق+اوپن‌سورس" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 درباره من
-- 🔧 ۵ سال تجربه حرفه‌ای در توسعه نرم‌افزار
-- 🌍 به ۸ زبان برنامه‌نویسی مسلط
-- 🚀 علاقه‌مند به معماری تمیز و اوپن‌سورس
+## 👨‍💻 about me
+- 🔧 5 years of work as a web and windows programmer
+- 🌍 Can write codes with 8 languages of programming
+- 🚀 I like best echosystems and opensource projects
 
 ---
 
-## 🧰 مهارت‌ها و ابزارها
+## 🧰 skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,react,nodejs,express,git,mysql,postgres,mongodb,githubactions" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 آمار گیت‌هاب
+## 📊 github status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -34,19 +34,14 @@
 
 ---
 
-## 🚀 پروژه‌های شاخص
+## 🚀 my projects
 
-| پروژه | توضیح | لینک |
+| project | deccryption | link |
 |-------|-------|------|
-| **پروژه اول** | ابزار مدیریت تسک با React + Node | [🔗 گیت‌هاب](https://github.com/YOUR_USERNAME/project1) • [🌐 پیش‌نمایش](https://project1.com) |
-| **پروژه دوم** | داشبورد تحلیل داده با Python + Django | [🔗 گیت‌هاب](https://github.com/YOUR_USERNAME/project2) • [🌐 پیش‌نمایش](https://project2.com) |
-| **پروژه سوم** | API مقیاس‌پذیر با Go و Redis | [🔗 گیت‌هاب](https://github.com/YOUR_USERNAME/project3) |
-
-> می‌توانی تا ۶ پروژه به همین شکل اضافه کنی.
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📫 call me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
