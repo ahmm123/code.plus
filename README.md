@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi! I`m codeplus👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=توسعه‌دهنده+بک‌اند+و+فول‌استک;5+سال+تجربه+برنامه‌نویسی;عاشق+اوپن‌سورس" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </p>
 
 ---
