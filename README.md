@@ -55,5 +55,5 @@
 ## 🎯 viewers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmm123&label=بازدید+پروفایل&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmm123&label=see+profile&color=0e75b6&style=flat" alt="profile views" />
 </p>
